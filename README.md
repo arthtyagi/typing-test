@@ -2,8 +2,8 @@
 A typing test in Python with a GUI.
 
 The following repo contains :
-* Background Image
-* Icon Image
-* Sentences Text File
-* Typing Test Image
-* Main Python3 file
+- [X] Background Image
+- [X] Icon Image
+- [X] Sentences Text File
+- [X] Typing Test Image
+- [X] Main Python3 file
